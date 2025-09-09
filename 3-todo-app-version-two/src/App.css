@@ -1,0 +1,17 @@
+
+
+input{
+    width: 100%;
+}
+
+.container {
+    text-align: left;
+}
+
+.our-row {
+    margin: 10px 5px;
+}
+
+.our-btn {
+    min-width: 80px;
+}
